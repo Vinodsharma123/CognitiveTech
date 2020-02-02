@@ -26,6 +26,4 @@
         android:text="@string/assam_police_recruitment_2020"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
-
-
 </LinearLayout>

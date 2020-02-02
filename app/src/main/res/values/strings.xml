@@ -1,22 +1,18 @@
 <resources>
     <string name="app_name">CongitiveTech</string>
     <string name="title_activity_refresh">RefreshActivity</string>
-    <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
     <string name="assam_police_recruitment_2020">ASSAM POLICE RECRUITMENT 2020</string>
     <string name="menu_connect_bth">Bluetooth Devices</string>
-    <string name="menu_logout">Logout</string>
+    <string name="enter_password">Enter Password</string>
+    
+    //Login Credentials
+    
+    <string name="login_shared_preferences">com.example.congitivetech_login_shared_preferences</string>
+    <string name="login_status_shared_preferences">com.example.congitivetech_login_status_shared_prefernces</string>
+    <string name="server_ip">12345</string>
 
     //List for Attempts and Score
-    <string-array name="items">
-        <item>
-
-        </item>
-
-    </string-array>
 </resources>
